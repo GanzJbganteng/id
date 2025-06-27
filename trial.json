@@ -1,0 +1,12 @@
+[
+  {
+    "KEY": "TRIAL-ABC123",
+    "USERNAME": "ganz",
+    "EXPIRE": "2025-06-27T10:30:00.000Z"
+  },
+  {
+    "KEY": "TRIAL-DEF456",
+    "USERNAME": "rofik",
+    "EXPIRE": "2025-06-28T08:00:00.000Z"
+  }
+]
