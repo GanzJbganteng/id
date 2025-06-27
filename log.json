@@ -148,5 +148,11 @@
     "user": "rofik",
     "action": "Aktifkan Maintenance",
     "value": "-"
+  },
+  {
+    "time": "27/6/2025, 09.23.04",
+    "user": "rofik",
+    "action": "Nonaktifkan Maintenance",
+    "value": "-"
   }
 ]
